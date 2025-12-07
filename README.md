@@ -17,11 +17,11 @@ In this project, I practiced essential DOM operations, including:
 # 🎨 CSS Concepts Used
 
 The user interface is styled using core CSS techniques such as:
-Margin & Padding (box model mastery)
-Flexbox layout system
-Display properties
-Hover effects
-Pseudo-elements (::before)
+1. Margin & Padding (box model mastery).
+2. Flexbox layout system.
+3. Display properties.
+4. Hover effects.
+5. Pseudo-elements (::before).
 
 # 📩 Contact
 If you have questions or want to connect, feel free to reach out. unalysuf@gmail.com
