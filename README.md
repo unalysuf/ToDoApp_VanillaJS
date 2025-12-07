@@ -6,7 +6,7 @@
 
 Hello! This is my Vanilla JS To-Do List Application, built to demonstrate my understanding of fundamental front-end concepts.
 
-🔧 DOM Manipulation
+# 🔧 DOM Manipulation
 
 In this project, I practiced essential DOM operations, including:
 Removing existing HTML elements and attributes
