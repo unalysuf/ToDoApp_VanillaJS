@@ -9,10 +9,10 @@ Hello! This is my Vanilla JS To-Do List Application, built to demonstrate my und
 # 🔧 DOM Manipulation
 
 In this project, I practiced essential DOM operations, including:
-Removing existing HTML elements and attributes
-Adding new HTML elements and attributes dynamically
-Updating and modifying CSS styles through JavaScript
-Handling and responding to DOM Events (click, input, etc.)
+1. Removing existing HTML elements and attributes.
+2. Adding new HTML elements and attributes dynamically.
+3. Updating and modifying CSS styles through JavaScript.
+4. 4. Handling and responding to DOM Events (click, input, etc.)
 
 # 🎨 CSS Concepts Used
 
